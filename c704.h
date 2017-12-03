@@ -18,7 +18,7 @@ public:
 			return 0;
 		if (m <= 0)
 			return 1;
-		if (n>=3&&m >= 3)
+		if (n >= 3 &&m >= 3)
 			return 8;
 		set<string> set;	
 		for (int i = 0; i <= m; ++i)
