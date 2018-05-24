@@ -1,4 +1,4 @@
 # LintCode
-| #        | Title    | 
-| :--------:   | :-----:   | 
-|   005      |   [Kth Largest Element](./c005.h)   |    
+| #        | Title    |   Solution     |
+| :--------:   | :-----:   |  :------: |
+|   005      |   [Kth Largest Element](https://www.lintcode.com/problem/kth-largest-element/description) |    [C++](./c005.h) |
